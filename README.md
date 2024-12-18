@@ -14,6 +14,9 @@ Overview of the project
 
 Project: MODEL EVALUATION AND COMPARISION
 
+![Screenshot (4)](https://github.com/user-attachments/assets/b4757d61-b2df-480c-94fb-e3f4c7d97b65)
+
+
 Overview of the MODEL EVALUATION AND COMPARISION Project
 
 ### **Overview of the AI Model Evaluation Project**
